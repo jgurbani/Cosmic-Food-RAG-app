@@ -49,7 +49,7 @@ frozenlist==1.5.0
     #   aiosignal
 httpcore==1.0.7
     # via httpx
-h11==0.16.0
+h11==0.15.0
     # via
     #   httpcore
     #   hypercorn
